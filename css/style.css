@@ -1,0 +1,111 @@
+
+.background{
+    background: 
+    linear-gradient(
+        rgba(2,53,37,0.5),
+        rgba(0,243,255,0.5)
+    ),
+    url(../image/banner.jpg);
+    height: 70vh;
+    background-size: cover;
+    background-position: top;
+}
+#nav-border{
+    border-bottom: 1px solid white;
+}
+.header-content{
+    margin-top: 11%;
+}
+.features-one{
+    text-align: center;
+    color: rgb(0, 114, 114);
+}
+.features-one h1 span{
+    border-bottom: 2px solid rgb(0, 114, 114);
+}
+.part-1 p{
+    margin-bottom: 0px;
+}
+.part-2 p{
+    margin-bottom: 0px;
+}
+.part-3 p{
+    margin-bottom: 0px;
+}
+.background-color{
+    background-image: url(../image/perfect-template.jpg);
+    background-size: cover;
+    height: 75vh;
+}
+#Back-color{
+    background-color: rgb(239, 241, 236);
+}
+.plans i{
+    font-size: 20px;
+}
+.color-text{
+    color: rgb(0, 114, 114);
+}
+.plans{
+    color: rgb(0,114,114);
+}
+.Download-background{
+    background-image: url(../image/download.png);
+    background-size: cover;
+    height: 30vh;
+    width: 100%;
+}
+.Download-background h4{
+    color: rgb(0,114,114);
+}
+.Download-background p{
+    color: rgb(0,114,114);
+}
+.Contact-color h4{
+    color: rgb(0,114,114);
+}
+.Contact-color i{
+    color: rgb(0,114,114);
+}
+.Contact-color p{
+    color: rgb(0,114,114);
+}
+.footer-icon i{
+    font-size: 30px;
+}
+.footer-icon a{
+
+}
+.twitter{
+    color: #00aced !important;
+}
+.facebook{
+    color: #3B5998;
+}
+.instagram{
+    color:#E1306C;
+}
+.ubunto{
+    color: #E95420;
+}
+.circle{
+    color: red;
+}
+.background-color h4{
+    color: rgb(0,114,114);
+}
+.background-color p{
+    color: rgb(0,114,114);
+}
+.margin-left{
+    margin-left: 45% !important;
+    margin-top: 6% !important;
+}
+.input-design{
+    background: rgb(0,114,114);
+    width: 100%;
+    color:white;
+}
+::placeholder{
+    color: white;
+}
